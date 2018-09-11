@@ -1,0 +1,29 @@
+
+/* Class = "UILabel"; text = "订单类型"; ObjectID = "Myw-tv-f6q"; */
+"Myw-tv-f6q.text" = "Order type";
+
+/* Class = "UIButton"; normalTitle = "加仓"; ObjectID = "iH9-Ep-d1W"; */
+"iH9-Ep-d1W.normalTitle" = "Add Store";
+
+/* Class = "UILabel"; text = "盈亏"; ObjectID = "k8c-JZ-kLK"; */
+"k8c-JZ-kLK.text" = "Profit and loss";
+
+/* Class = "UILabel"; text = "剩余锁仓天数"; ObjectID = "5jr-r4-66W"; */
+"5jr-r4-66W.text" = "Remaining lock days";
+
+/* Class = "UILabel"; text = "申购价格"; ObjectID = "7pE-Pd-jIZ"; */
+"7pE-Pd-jIZ.text" = "Apply price";
+
+/* Class = "UILabel"; text = "申购数量"; ObjectID = "DXq-Ls-p9J"; */
+"DXq-Ls-p9J.text" = "Apply vol";
+
+/* Class = "UILabel"; text = "订单时间:"; ObjectID = "SVk-Gf-XvX"; */
+"SVk-Gf-XvX.text" = "Order time:";
+
+/* Class = "UILabel"; text = "已获得利息"; ObjectID = "a58-sd-LQF"; */
+"a58-sd-LQF.text" = "Interest  obtained";
+
+/* Class = "UILabel"; text = "手续费"; ObjectID = "p8Q-PB-fBp"; */
+"p8Q-PB-fBp.text" = "Fee";
+
+

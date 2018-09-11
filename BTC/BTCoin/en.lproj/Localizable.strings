@@ -1,0 +1,252 @@
+/* 
+  Localizable.strings
+  BTCoin
+
+  Created by LionIT on 14/03/2018.
+  Copyright © 2018 LionIT. All rights reserved.
+*/
+
+//TabBar
+"行情" = "Market";
+"交易" = "Trade";
+"钱包" = "Wallet";
+"我" = "Me";
+
+"温馨提醒" = "Warm reminding";
+"BTK有新的版本可以更新" = "BTK have a new version can be updated";
+"去更新" = "Update";
+
+//行情
+"名称/代码" = "Name/Code";
+"现价" = "Present Price";
+"涨跌幅" = "Rise/Fall";
+"量(24H)" = "VOL(24H)";
+
+//行情详情
+"高" = "High";
+"低" = "Low";
+"24H量" = "VOL(24H)";
+"买入" = "Buy";
+"卖出" = "Sell";
+
+//K线筛选
+"指标" = "Index";
+"分时" = "Line";
+"5分" = "5min";
+"15分" = "15min";
+"30分" = "30min";
+"小时" = "1hour";
+"日线" = "1day";
+
+//K线内
+" 开:" = " open:";
+" 收:" = " close:";
+" 高:" = " high:";
+" 低:" = " low:";
+"成交量" = "VOL";
+
+//买入、卖出
+"委托管理" = "Entrust";
+"成交记录" = "Record";
+"成交记录" = "Record";
+"请选择币种" = "Please select currency";
+"限价交易" = "Limited transaction";
+"市价交易" = "Market transaction";
+"价格" = "Price";
+"买入量" = "Buy vol";
+"卖出量" = "Sales vol";
+"交易额:" = "Turnover:";
+"交易额" = "Turnover";
+"充币" = "Recharge";
+"请输入正确的数值!" = "Please enter the correct value!";
+"以市场最优价格买入" = "Buy at the best price in the market";
+"市价快速交易" = "Market price fast Trading";
+"以市场最优价格卖出" = "Sell at the best price in the market";
+"请输入价格" = "Please enter the price";
+"请输入数量" = "Please enter the number";
+"交易额大于您的余额，请重新输入!" = "The transaction amount is greater than your balance, please reenter it!";
+"温馨提示：您还未进行身份认证，请先认证！" = "Please authenticate first!";
+"请先选择一个币种，再进行充值！" = "Please choose one currency first and recharge it.";
+"请输入交易密码" = "Please enter the transaction password";
+"确定" = "OK";
+"取消" = "Cancel";
+"可用" = "Available";
+"方向" = "";
+"价格" = "price";
+"数量" = "vol";
+"买" = "Buy";
+"卖" = "Sell";
+
+//委托管理
+"全部" = "All";
+"当日委托" = "TodayEntrustment";
+"历史委托" = "HistoryEntrustment";
+"重置" = "Reset";
+"筛选" = "filter";
+"类型:" = "type:";
+"起始日期" = "beginDate";
+"截止日期" = "endDate";
+"请先登录" = "Please Login first!";
+
+
+//成交记录
+"当日成交" = "TodayRecord";
+"历史成交" = "HistoryRecord";
+"未完成" = "unSuccess";
+"部分成交" = "someSuccess";
+"完全成交" = "success";
+"用户撤销" = "userCancel";
+"用户撤单" = "userCancel";
+"已成交" = "Success";
+
+//Me
+"请登录" = "Please Login";
+"欢迎来到BTK" = "Welcome to BTK";
+"身份认证" = "Identity Authentication";
+"安全中心" = "Security Center";
+"提币地址" = "Currency Address";
+"设置" = "Setting";
+"推荐好友"="Recommend Friends";
+"关于我们"="About Us";
+"总资产" = "Total asset conversion(USDT)";
+
+//login
+"登录" = "Login";
+"登 录" = "Login";
+"手机注册" = "Register by Mobile";
+"注册" = "Register";
+"邮箱或者手机号码" = "Email or phoneNumber";
+"密码" = "PasPsword";
+"忘记密码?" = "Forget?";
+"注册后国籍不可更改。"="Citizenship cannot be changed after registration.";
+"邮箱注册"="Email Register";
+
+
+//身份认证
+"证件类型" = "ID type";
+"请选择您所认证的证件类型" = "Please select the type of ID";
+"真实姓名" = "Real name";
+"请填写您的真实姓名" = "Please enter your real name";
+"证件号码" = "ID Number";
+"请输入证件号码" = "Please enter the ID number";
+"下一步" = "Next step";
+"身份证" = "ID card";
+"护照" = "Passport";
+"军官证" = "certificate of officers";
+"台湾居民通行证" = "Taiwan resident pass";
+"港澳居民通行证" = "Passport of Hong Kong and Macao residents";
+"本人证件照片认证" = "Authentication of your identification photo";
+"点击上传\n证件正面照" = "Click upload\n the front";
+"点击上传\n证件反面照" = "Click upload\n the back";
+"点击上传\n手持证件正面照" = "Click upload\n the front photo in hand";
+"提交" = "Submit";
+"请先上传图片" = "Please upload the photo first";
+"打开照相机" = "Camera";
+"从相册获取" = "Album";
+"您的认证资料已上传\n请耐心等待！" = "Your authentication information has been uploaded \n please wait patiently!";
+
+"手机"="Mobile";
+"邮箱"="Email";
+"已开启"="Opened";
+"未绑定"="Unbound";
+"绑定邮箱"="Bind Email";
+"邮箱地址"="Email Address";
+"请输入邮箱地址"="Enter email adress";
+"邮箱验证码"="Email Code";
+"请输入邮箱验证码"="Enter email code";
+"发送"="Send";
+"绑定"="Bind";
+"暂无地址"="No Address";
+"绑定手机"="Bind Mobile";
+"手机号码"="Mobile";
+"请输入手机号码"="Enter mobile number";
+"手机验证码"="MobileCode";
+"请输入手机验证码"="Enter Mobile Code";
+"国籍注册后不可更改。" = "Your nationality can't update after register.";
+"邮箱注册" = "Register by email";
+"使用协议" = "Use protocol";
+"重发验证码" = "Retransmission verification code";
+"我同意" = "I agree";
+"选择国家/地区" = "Select country / Region";
+
+"设置语言"="Language Setting";
+"修改登录密码"="Login Password Setting";
+"修改交易密码"="Trade Password Setting";
+"设置交易密码"="Trade Password Setting";
+"退出"="Exit";
+"请输入原始密码"="Enter original password";
+"请输入密码"="Enter new password";
+"确认密码"="Enter new password again";
+"请输入验证码"="Enter security code";
+"提交"="Submit";
+"忘记密码"="Forget Password";
+"邮箱或手机号码"="Email or mobile number";
+"请输入邮箱或手机号码"="Enter email or mobile number";
+"验证码"="Security Code";
+
+
+//钱包
+"币币账户"="Coin Currency Account";
+"锁仓账户"="Lock Up Account";
+"C2C账户"="C2C Acount";
+"进入币币账户"="Enter Coin Currency Account";
+"进入锁仓账户"="Enter Lock Up Account";
+"进入C2C账户"="Enter C2C Account";
+"可用"="Available";
+"冻结"="Unavailable";
+"财务记录"="Property Record";
+"交易时间"="Trade Time";
+"类型"="Type";
+"金额"="Amount";
+"手续费"="Fee";
+"状态"="Status";
+"暂无记录"="NoResult";
+"提币"="WithdrawCoin";
+"去交易"="Trade";
+"充币"="Recharge";
+"提币"="Withdraw";
+"系统"="System";
+"转入"="Tranerin";
+"转出"="Tranerout";
+"历史记录"="Histroy Record";
+"关闭"="Close";
+"成功"="Success";
+"失败"="Failed";
+"等待"="Waiting";
+"等待提现"="Waiting";
+"提现成功"="Success";
+"用户撤销"="Cancel";
+"正在处理"="dealing";
+"保存二维码至相册"="Save To Photos";
+"复制地址"="Copy";
+"输入或长按粘贴地址"="Enter or long press paste address";
+"最小提币数量0.01"="Minimum number is 0.01";
+"到账数量"="Acount Number";
+"地址"="Address";
+"添加地址"="Add Address";
+"交易密码"="Trade Password";
+"备注"="Remark";
+"请输入地址备注"="Enter address remark";
+
+//申购模块新增
+"申购" = "Apply Purchase";
+"市场" = "Market";
+"申购币种" = "Currency Type";
+"申购量" = "Apply Vol";
+"申购记录" = "Apply Record";
+"暂无数据" = "No data!";
+"天" = "day";
+"最多允许" = "Max allow";
+"位小数" = "decimal digits";
+
+//加仓
+" 年 " = " / ";
+" 月 " = " / ";
+" 日" = " ";
+"加仓" = "Add Storehouse";
+"币种" = "Currency";
+"买入价格" = "Price";
+"该币加仓截止日期" = "Closing date of the coin";
+"(注：加仓买入价格为第一笔申购价)" = "(Note: the purchase price is the first bid price)";
+"区" = " Area";
+

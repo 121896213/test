@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  BTCoin
+
+  Created by LionIT on 14/03/2018.
+  Copyright © 2018 LionIT. All rights reserved.
+*/
+
+//手机注册
+"登录" = "登录";
+"手机注册" = "手机注册";
+"国籍注册后不可更改。" = "国籍注册后不可更改。";
+"手机号码" = "手机号码";
+"下一步" = "下一步";
+"邮箱注册" = "邮箱注册";

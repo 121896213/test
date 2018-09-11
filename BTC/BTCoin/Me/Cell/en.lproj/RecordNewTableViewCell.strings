@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "手续费"; ObjectID = "Hv9-QP-cJY"; */
+"Hv9-QP-cJY.text" = "Fee";
+
+/* Class = "UILabel"; text = "方向"; ObjectID = "NxC-XA-uee"; */
+"NxC-XA-uee.text" = "Direction";
+
+/* Class = "UILabel"; text = "成交价格"; ObjectID = "Z37-Kg-6yC"; */
+"Z37-Kg-6yC.text" = "Price";
+
+/* Class = "UILabel"; text = "成交量"; ObjectID = "cjJ-uj-Rc6"; */
+"cjJ-uj-Rc6.text" = "Vol";
+
+/* Class = "UILabel"; text = "订单时间:"; ObjectID = "jPL-Of-kTf"; */
+"jPL-Of-kTf.text" = "OrderTime:";
+
+/* Class = "UILabel"; text = "成交额"; ObjectID = "zjs-Aw-qbK"; */
+"zjs-Aw-qbK.text" = "Amount";

@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FwP-ji-453"; */
+"FwP-ji-453.text" = "Label";
+
+/* Class = "UILabel"; text = "手续费"; ObjectID = "Hv9-QP-cJY"; */
+"Hv9-QP-cJY.text" = "手续费";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KuY-Lt-ZPi"; */
+"KuY-Lt-ZPi.text" = "Label";
+
+/* Class = "UILabel"; text = "方向"; ObjectID = "NxC-XA-uee"; */
+"NxC-XA-uee.text" = "方向";
+
+/* Class = "UILabel"; text = "成交价格"; ObjectID = "Z37-Kg-6yC"; */
+"Z37-Kg-6yC.text" = "成交价格";
+
+/* Class = "UILabel"; text = "成交量"; ObjectID = "cjJ-uj-Rc6"; */
+"cjJ-uj-Rc6.text" = "成交量";
+
+/* Class = "UILabel"; text = "ETC/BTC"; ObjectID = "eoo-yG-fii"; */
+"eoo-yG-fii.text" = "ETC/BTC";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gWa-kn-sAS"; */
+"gWa-kn-sAS.text" = "Label";
+
+/* Class = "UILabel"; text = "订单时间:"; ObjectID = "jPL-Of-kTf"; */
+"jPL-Of-kTf.text" = "订单时间:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "l4b-AY-htj"; */
+"l4b-AY-htj.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oNh-9f-Ueb"; */
+"oNh-9f-Ueb.text" = "Label";
+
+/* Class = "UILabel"; text = "2018-04-23 15:25:36"; ObjectID = "vh9-80-dkh"; */
+"vh9-80-dkh.text" = "2018-04-23 15:25:36";
+
+/* Class = "UILabel"; text = "成交额"; ObjectID = "zjs-Aw-qbK"; */
+"zjs-Aw-qbK.text" = "成交额";

@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2Xr-Uj-cc2"; */
+"2Xr-Uj-cc2.text" = "Label";
+
+/* Class = "UILabel"; text = "剩余锁仓天数"; ObjectID = "5jr-r4-66W"; */
+"5jr-r4-66W.text" = "剩余锁仓天数";
+
+/* Class = "UILabel"; text = "申购价格"; ObjectID = "7pE-Pd-jIZ"; */
+"7pE-Pd-jIZ.text" = "申购价格";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8UV-bK-5uR"; */
+"8UV-bK-5uR.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9mv-1f-t20"; */
+"9mv-1f-t20.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AZB-4s-0da"; */
+"AZB-4s-0da.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DTF-d9-7UZ"; */
+"DTF-d9-7UZ.text" = "Label";
+
+/* Class = "UILabel"; text = "申购数量"; ObjectID = "DXq-Ls-p9J"; */
+"DXq-Ls-p9J.text" = "申购数量";
+
+/* Class = "UILabel"; text = "订单类型"; ObjectID = "Myw-tv-f6q"; */
+"Myw-tv-f6q.text" = "订单类型";
+
+/* Class = "UILabel"; text = "订单时间:"; ObjectID = "SVk-Gf-XvX"; */
+"SVk-Gf-XvX.text" = "订单时间:";
+
+/* Class = "UILabel"; text = "已获得利息"; ObjectID = "a58-sd-LQF"; */
+"a58-sd-LQF.text" = "已获得利息";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "axs-ER-BWo"; */
+"axs-ER-BWo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c8q-DP-kA0"; */
+"c8q-DP-kA0.text" = "Label";
+
+/* Class = "UILabel"; text = "2018-04-23 15:25:36"; ObjectID = "he2-hB-dkQ"; */
+"he2-hB-dkQ.text" = "2018-04-23 15:25:36";
+
+/* Class = "UIButton"; normalTitle = "加仓"; ObjectID = "iH9-Ep-d1W"; */
+"iH9-Ep-d1W.normalTitle" = "加仓";
+
+/* Class = "UILabel"; text = "盈亏"; ObjectID = "k8c-JZ-kLK"; */
+"k8c-JZ-kLK.text" = "盈亏";
+
+/* Class = "UILabel"; text = "手续费"; ObjectID = "p8Q-PB-fBp"; */
+"p8Q-PB-fBp.text" = "手续费";
+
+/* Class = "UILabel"; text = "ETC/BTC"; ObjectID = "y6V-Rr-SAo"; */
+"y6V-Rr-SAo.text" = "ETC/BTC";

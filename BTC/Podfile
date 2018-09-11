@@ -1,0 +1,25 @@
+target 'BTCoin' do
+    platform :ios, '8.0'
+    pod 'AFNetworking','~>3.0.0'
+    pod 'IQKeyboardManager'        # 键盘管理器
+    pod 'SocketRocket'
+    pod 'MJRefresh'
+    pod 'LCActionSheet', '~> 3.4.0'
+    pod 'MJExtension', '~> 3.0.13'
+    pod 'Masonry'
+    pod 'YYKit'
+    pod 'ReactiveCocoa', '2.0'
+    pod 'VTMagic', '~> 1.2.4'
+    pod 'QRCodeReaderViewController', '~> 4.0.2'
+    pod 'ZZYQRCode', '~> 1.1.0'
+    pod 'FSActionSheet'
+    pod 'UIButton-SSEdgeInsets', '~> 0.1.1'
+    pod 'CHTCollectionViewWaterfallLayout','~> 0.9.7'
+    pod 'SHSegmentedControl', '~> 1.1.9'
+    pod 'MBProgressHUD','~> 1.1.0'
+    pod 'UITextView+Placeholder','~> 1.2.1'
+    pod 'BRPickerView','~> 2.2.1'
+    pod 'JCAlertController' ,'~> 3.0.1'
+    pod 'YBAttributeTextTapAction','~> 2.0.6'
+end
+

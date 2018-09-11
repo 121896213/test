@@ -1,0 +1,1 @@
+../../../ZZYQRCode/Demo/Demo/ZZYQRCode/AVCaptureSessionManager.h

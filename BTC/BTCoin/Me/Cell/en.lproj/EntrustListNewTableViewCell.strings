@@ -1,0 +1,23 @@
+
+
+/* Class = "UIButton"; normalTitle = "撤单"; ObjectID = "KVx-jL-zoe"; */
+"KVx-jL-zoe.normalTitle" = "Cancel order";
+
+/* Class = "UILabel"; text = "均价"; ObjectID = "RD6-wM-gWr"; */
+"RD6-wM-gWr.text" = "AvgPri";
+
+/* Class = "UILabel"; text = "成交量"; ObjectID = "SVe-Wm-xJd"; */
+"SVe-Wm-xJd.text" = "dealVOL";
+
+/* Class = "UILabel"; text = "委托量"; ObjectID = "gSk-YB-cH7"; */
+"gSk-YB-cH7.text" = "VOL";
+
+/* Class = "UIButton"; normalTitle = "取消"; ObjectID = "ggs-0x-lN7"; */
+"ggs-0x-lN7.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "委托价"; ObjectID = "qLv-mZ-oGP"; */
+"qLv-mZ-oGP.text" = "price";
+
+
+
+

@@ -1,0 +1,75 @@
+//
+//  BTCoin-PrefixHeader.pch
+//  BTCoin
+//
+//  Created by LionIT on 08/03/2018.
+//  Copyright © 2018 LionIT. All rights reserved.
+//
+
+#ifndef BTCoin_PrefixHeader_pch
+#define BTCoin_PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <MJExtension/MJExtension.h>
+
+#import "PubColorAndFont.h"
+#import "PubDefine.h"
+#import "UtilsMacro.h"
+#import "BTCDefine.h"
+#import "UIView+Extension.h"
+#import "UIImage+Extension.h"
+#import "NSString+Custom.h"
+
+#import "Toast+UIView.h"
+#import "NSString+Size.h"
+#import "NSJSONSerialization+RemovingNulls.h"
+#import "PopupViewHUD.h"
+
+#import "SDWebImageCompat.h"
+#import "SDImageCache.h"
+
+#import "Masonry.h"
+#import "UserInfo.h"
+
+#import "AppUtil.h"
+#import "SZHTTPSRsqManager.h"
+#import "BigAreaModel.h"
+
+#import "UIColor+SapColor.h"
+#import "GlobalDefine.h"
+#import "NSString+Helper.h"
+#import "UIView+XYConvenience.h"
+#import "UIViewController+XYConvenience.h"
+#import "NSObject+XYConvenience.h"
+#import "UIScrollView+XYFloatFooter.h"
+#import "AppDelegate.h"
+#import "ShareFunction.h"
+#import <NSNotificationCenter+RACSupport.h>
+#import "NSObject+Additions.h"
+#import "UIButton+EnlargeTouchArea.h"
+
+#import "SZHttpsService.h"
+#import "TradeCommonModel.h"
+#import "SZUserDefaultCenter.h"
+#import <MJRefresh/MJRefresh.h>
+#import "SZSocket.h"
+#import <FSActionSheet/FSActionSheet.h>
+#import <UIButton-SSEdgeInsets/UIButton+SSEdgeInsets.h>
+#import <CHTCollectionViewWaterfallLayout/CHTCollectionViewWaterfallLayout.h>
+#import <SHSegmentedControl/SHSegmentedControlHeader.h>
+#import <MBProgressHUD/MBProgressHUD.h>
+#import <BRPickerView/BRPickerView.h>
+#import <JCAlertController/JCAlertController.h>
+#import "UITableView+MJAutoRefreshFooterManger.h"
+#import "UIViewController+MBProgressHUD.h"
+#import "UIView+Settings.h"
+#import "UIButton+Gradient.h"
+#import "UILabel+Settings.h"
+#import "SZSundriesCenter.h"
+
+
+#define KUserSingleton [UserInfo sharedUserInfo]
+
+#endif /* BTCoin_PrefixHeader_pch */

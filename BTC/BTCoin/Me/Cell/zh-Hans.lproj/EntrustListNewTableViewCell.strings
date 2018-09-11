@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "2018-04-23 15:25:36"; ObjectID = "G7L-jp-sCw"; */
+"G7L-jp-sCw.text" = "2018-04-23 15:25:36";
+
+/* Class = "UIButton"; normalTitle = "撤单"; ObjectID = "KVx-jL-zoe"; */
+"KVx-jL-zoe.normalTitle" = "撤单";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "Lmb-jw-HNz"; */
+"Lmb-jw-HNz.text" = "--";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "NAH-of-DCx"; */
+"NAH-of-DCx.text" = "--";
+
+/* Class = "UILabel"; text = "均价"; ObjectID = "RD6-wM-gWr"; */
+"RD6-wM-gWr.text" = "均价";
+
+/* Class = "UILabel"; text = "成交量"; ObjectID = "SVe-Wm-xJd"; */
+"SVe-Wm-xJd.text" = "成交量";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "UBp-bB-wUg"; */
+"UBp-bB-wUg.text" = "--";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "XXL-N3-wcQ"; */
+"XXL-N3-wcQ.text" = "--";
+
+/* Class = "UILabel"; text = "ETC/BTC"; ObjectID = "amY-ta-jSN"; */
+"amY-ta-jSN.text" = "ETC/BTC";
+
+/* Class = "UILabel"; text = "委托量"; ObjectID = "gSk-YB-cH7"; */
+"gSk-YB-cH7.text" = "委托量";
+
+/* Class = "UIButton"; normalTitle = "取消"; ObjectID = "ggs-0x-lN7"; */
+"ggs-0x-lN7.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "lLq-KD-c4T"; */
+"lLq-KD-c4T.text" = "--";
+
+/* Class = "UILabel"; text = "委托价"; ObjectID = "qLv-mZ-oGP"; */
+"qLv-mZ-oGP.text" = "委托价";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "vhc-HX-uWb"; */
+"vhc-HX-uWb.text" = "--";

@@ -1,0 +1,132 @@
+PODS:
+  - AFNetworking (3.0.4):
+    - AFNetworking/NSURLSession (= 3.0.4)
+    - AFNetworking/Reachability (= 3.0.4)
+    - AFNetworking/Security (= 3.0.4)
+    - AFNetworking/Serialization (= 3.0.4)
+    - AFNetworking/UIKit (= 3.0.4)
+  - AFNetworking/NSURLSession (3.0.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.0.4)
+  - AFNetworking/Security (3.0.4)
+  - AFNetworking/Serialization (3.0.4)
+  - AFNetworking/UIKit (3.0.4):
+    - AFNetworking/NSURLSession
+  - BRPickerView (2.2.1)
+  - CHTCollectionViewWaterfallLayout (0.9.7):
+    - CHTCollectionViewWaterfallLayout/ObjC (= 0.9.7)
+  - CHTCollectionViewWaterfallLayout/ObjC (0.9.7)
+  - FSActionSheet (1.0.1)
+  - IQKeyboardManager (5.0.2)
+  - JCAlertController (3.0.1)
+  - LCActionSheet (3.4.0):
+    - Masonry (~> 1.1.0)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.1.0)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - QRCodeReaderViewController (4.0.2)
+  - ReactiveCocoa (2.0):
+    - ReactiveCocoa/Core (= 2.0)
+    - ReactiveCocoa/no-arc (= 2.0)
+    - ReactiveCocoa/RACExtensions (= 2.0)
+  - ReactiveCocoa/Core (2.0):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.0)
+  - ReactiveCocoa/RACExtensions (2.0):
+    - ReactiveCocoa/Core
+  - SHSegmentedControl (1.1.9):
+    - SHSegmentedControl/SHExtension (= 1.1.9)
+    - SHSegmentedControl/SHSegmentContent (= 1.1.9)
+  - SHSegmentedControl/SHExtension (1.1.9)
+  - SHSegmentedControl/SHSegmentContent (1.1.9):
+    - Masonry
+    - MJRefresh
+    - SHSegmentedControl/SHExtension
+  - SocketRocket (0.5.1)
+  - UIButton-SSEdgeInsets (0.1.7)
+  - "UITextView+Placeholder (1.2.1)"
+  - VTMagic (1.2.4):
+    - VTMagic/Core (= 1.2.4)
+  - VTMagic/Core (1.2.4)
+  - YBAttributeTextTapAction (2.0.6)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+  - ZZYQRCode (1.1.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0.0)
+  - BRPickerView (~> 2.2.1)
+  - CHTCollectionViewWaterfallLayout (~> 0.9.7)
+  - FSActionSheet
+  - IQKeyboardManager
+  - JCAlertController (~> 3.0.1)
+  - LCActionSheet (~> 3.4.0)
+  - Masonry
+  - MBProgressHUD (~> 1.1.0)
+  - MJExtension (~> 3.0.13)
+  - MJRefresh
+  - QRCodeReaderViewController (~> 4.0.2)
+  - ReactiveCocoa (= 2.0)
+  - SHSegmentedControl (~> 1.1.9)
+  - SocketRocket
+  - UIButton-SSEdgeInsets (~> 0.1.1)
+  - "UITextView+Placeholder (~> 1.2.1)"
+  - VTMagic (~> 1.2.4)
+  - YBAttributeTextTapAction (~> 2.0.6)
+  - YYKit
+  - ZZYQRCode (~> 1.1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - BRPickerView
+    - CHTCollectionViewWaterfallLayout
+    - FSActionSheet
+    - IQKeyboardManager
+    - JCAlertController
+    - LCActionSheet
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - QRCodeReaderViewController
+    - ReactiveCocoa
+    - SHSegmentedControl
+    - SocketRocket
+    - UIButton-SSEdgeInsets
+    - "UITextView+Placeholder"
+    - VTMagic
+    - YBAttributeTextTapAction
+    - YYKit
+    - ZZYQRCode
+
+SPEC CHECKSUMS:
+  AFNetworking: a0075feb321559dc78d9d85b55d11caa19eabb93
+  BRPickerView: 0590a8c5de9bd98c6b4e4f117a3dff6de287d5b2
+  CHTCollectionViewWaterfallLayout: 9d11068fafecac106695bb5a5d6d0f738483b598
+  FSActionSheet: 69539289555a515c9cba29a00c91fa3d5d3901aa
+  IQKeyboardManager: 5ab84749f20f682f784160c2c63bef4f19d10d26
+  JCAlertController: 49765feb0b47804307f152549373a8aeef1dad39
+  LCActionSheet: af918d2f3f1c4c97f5f6f62cb099e745447aff96
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  QRCodeReaderViewController: e8f27d035b3e72b1d4b1c61ff66458287e3be0ff
+  ReactiveCocoa: c5347d7b1c348d22a85800e14e89da84c5254cfb
+  SHSegmentedControl: 96b9cfa68c3abc1ec8a33fb49044b7083669e669
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  UIButton-SSEdgeInsets: 64a600adc670d98e140ddcde1d0e64d7b952502c
+  "UITextView+Placeholder": 0c3efd97f37ea64bde7f34cc6e90fe02e87b3909
+  VTMagic: b49e5f456dbcbfd9a3588ba92417233a105bc193
+  YBAttributeTextTapAction: 650ff36251479f8cfc7b5dd8fb62587c538ce502
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+  ZZYQRCode: a2b56f23b9df653196d9cfa5b52d5ea825d6dfd2
+
+PODFILE CHECKSUM: bc0afd67493c744681639777d22612a37d97bd5b
+
+COCOAPODS: 1.5.3
